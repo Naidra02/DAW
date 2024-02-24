@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/adri/Proyectos/Java/mavenproject1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject1 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/adri/Proyectos/Java/mavenproject1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mavenproject1 1.0-SNAPSHOT API'
+com.naidra.mavenproject1
+/home/adri/Proyectos/Java/mavenproject1/src/main/java = 1708788925288
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/overview-tree.html = 1708794452424
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/package-search-index.js = 1708794452472
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/allclasses-index.html = 1708794452508
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/script.js = 1708794452576
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/member-search-index.js = 1708794452484
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/package-search-index.zip = 1708794452480
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/type-search-index.zip = 1708794452484
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/member-search-index.zip = 1708794452484
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/allclasses.html = 1708794452548
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/allpackages-index.html = 1708794452524
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/search.js = 1708794452580
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/constant-values.html = 1708794452372
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/deprecated-list.html = 1708794452544
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/element-list = 1708794452308
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/index-all.html = 1708794452488
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/jquery-ui.overrides.css = 1708794452616
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/type-search-index.js = 1708794452484
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/stylesheet.css = 1708794452576
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/index.html = 1708794452556
+/home/adri/Proyectos/Java/mavenproject1/target/site/apidocs/help-doc.html = 1708794452568
