@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\Animal",
+            "name": "Animal",
+            "summary": "Clase\u0020que\u0020representa\u0020un\u0020animal",
+            "url": "classes/Animal.html"
+        },                {
+            "fqsen": "\\Animal\u003A\u003AgetTipoSangue\u0028\u0029",
+            "name": "getTipoSangue",
+            "summary": "",
+            "url": "classes/Animal.html#method_getTipoSangue"
+        },                {
+            "fqsen": "\\Animal\u003A\u003Adesprazar\u0028\u0029",
+            "name": "desprazar",
+            "summary": "",
+            "url": "classes/Animal.html#method_desprazar"
+        },                {
+            "fqsen": "\\Animal\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "",
+            "url": "classes/Animal.html#method___construct"
+        },                {
+            "fqsen": "\\Animal\u003A\u003A\u0024nombreAnimal",
+            "name": "nombreAnimal",
+            "summary": "",
+            "url": "classes/Animal.html#property_nombreAnimal"
+        },                {
+            "fqsen": "\\Animal\u003A\u003A\u0024nombreAnimalLatin",
+            "name": "nombreAnimalLatin",
+            "summary": "",
+            "url": "classes/Animal.html#property_nombreAnimalLatin"
+        },                {
+            "fqsen": "\\Animal\u003A\u003A\u0024categoria",
+            "name": "categoria",
+            "summary": "",
+            "url": "classes/Animal.html#property_categoria"
+        },                {
+            "fqsen": "\\Animal\u003A\u003A\u0024fotoImagen",
+            "name": "fotoImagen",
+            "summary": "",
+            "url": "classes/Animal.html#property_fotoImagen"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
